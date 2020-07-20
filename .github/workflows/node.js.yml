@@ -14,7 +14,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [10.x, 12.x, 14.x]
+        node-version: 14.x
 
     steps:
     - uses: actions/checkout@v2
@@ -24,6 +24,12 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm install
     - run: node index.js
+    - name: Commit Files
+      run: |
+      git config --local user.email "action@github.com"
+      git config --local user.name "GitHub Action"
+      git commit -m ":construction_worker: update twitter content via action" -a
+  - name: Push changes
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
