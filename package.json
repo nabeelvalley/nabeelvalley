@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@octokit/auth": "^2.0.0",
+    "@octokit/auth-app": "^2.4.10",
+    "@octokit/graphql": "^4.5.2",
     "dotenv": "^8.2.0",
     "twitter": "^1.7.1"
   }
