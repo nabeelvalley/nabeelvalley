@@ -55,12 +55,12 @@ const writeTweets = (data) => {
   console.log('Data Written to README')
 }
 
-const writeRecentRepos = (data) => {
+const writeStarredRepos = (data) => {
   const listItem = ({ name, url}) => `- [${name}](${url})`
 
   const cardData = data.map((t) => listItem(t))
 
-  readMe = readMe.replace('%%RECENT_REPOS%%', cardData.join('\n'))
+  readMe = readMe.replace('%%STARRED_REPOS%%', cardData.join('\n'))
 
   fs.writeFileSync('./README.md', readMe)
   console.log('Data Written to README')
@@ -88,13 +88,13 @@ const graphqlWithAuth = graphql.defaults({
 const { repository } = graphqlWithAuth(
   `{
     user(login: "nabeelvalley") {
-      repositoriesContributedTo(contributionTypes: COMMIT, first: 5) {
+      repositoriesContributedTo(contributionTypes: COMMIT, first: 10) {
         nodes {
           name
           url
         }
       }
-      topRepositories(orderBy: {field: UPDATED_AT, direction: DESC}, first: 5) {
+      starredRepositories(last: 5) {
         nodes {
           name
           url
@@ -102,11 +102,12 @@ const { repository } = graphqlWithAuth(
       }
     }
   }
+  
   `
 ).then((r) => {
   const contrib = r.user.repositoriesContributedTo.nodes
   writContributedRepos(contrib)
 
-  const recent = r.user.topRepositories.nodes
-  writeRecentRepos(recent)
+  const starred = r.user.starredRepositories.nodes
+  writeStarredRepos(starred)
 })
