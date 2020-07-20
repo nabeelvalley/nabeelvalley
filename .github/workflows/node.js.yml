@@ -35,8 +35,6 @@ jobs:
         git status
         git add README.md
         git commit -m ":construction_worker: update twitter content via action"
-        git checkout master
-        git merge develop
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
