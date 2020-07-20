@@ -18,13 +18,14 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 14.x
-    - run: npm install
+    - run: yarn install
     - run: node index.js
     - name: Commit Files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m ":construction_worker: update twitter content via action" -a
+        git add .
+        git commit -m ":construction_worker: update twitter content via action"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
