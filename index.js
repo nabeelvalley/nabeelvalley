@@ -24,7 +24,7 @@ const writeData = (data) => {
     .readFileSync('README.template.md', 'utf-8')
     .replace('%%TWITTER_CARDS%%', cardData.join('\n'))
 
-  fs.writeFileSync('README.md', readMe)
+  fs.writeFileSync('./README.md', readMe)
   console.log('Data Written to README')
 }
 
