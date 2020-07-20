@@ -25,6 +25,7 @@ const writeData = (data) => {
     .replace('%%TWITTER_CARDS%%', cardData.join('\n'))
 
   fs.writeFileSync('README.md', readMe)
+  console.log('Data Written to README')
 }
 
 client.get('statuses/user_timeline', params, (error, tweets, response) => {
