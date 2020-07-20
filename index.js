@@ -24,10 +24,17 @@ const writeData = (data) => {
     .readFileSync('README.template.md', 'utf-8')
     .replace('%%TWITTER_CARDS%%', cardData.join('\n'))
 
-  fs.writeFileSync('README.md', readMe)
+  fs.writeFileSync('./README.md', readMe)
+  console.log('Data Written to README')
+
+  
 }
 
+console.log("Make request to Twitter Starting")
 client.get('statuses/user_timeline', params, (error, tweets, response) => {
+
+  console.log("Data returned from twitter")
+
   if (!error) {
     writeData(
       tweets
@@ -36,5 +43,8 @@ client.get('statuses/user_timeline', params, (error, tweets, response) => {
         })
         .slice(0, 5)
     )
+  } else {
+    console.log("Twitter Client Error")
+    console.error(error)
   }
 })
