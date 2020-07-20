@@ -39,7 +39,7 @@ client.get('statuses/user_timeline', params, (error, tweets, response) => {
     writeData(
       tweets
         .map((t) => {
-          return { handle: t.user.screen_name, text: t.text, id: t.id }
+          return { handle: t.user.screen_name, text: t.text, id: t.id_str }
         })
         .slice(0, 5)
     )
