@@ -21,8 +21,7 @@ jobs:
     - run: yarn install
     - run: node index.js
     - run: cat README.md
-    - name: Commit Files
-      run: |
+    - run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git status
