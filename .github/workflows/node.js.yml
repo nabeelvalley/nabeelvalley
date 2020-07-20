@@ -29,13 +29,9 @@ jobs:
       run: node index.js
     - run: ls
     - run: cat README.md
-    - run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git status
-        git add README.md
-        git commit -m ":construction_worker: update twitter content via action"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: Update resources
+      uses: test-room-7/action-update-file@v1
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        file-path: README.md
+        commit-msg: Update resources
+        github-token: ${{ secrets.GITHUB_TOKEN }}
