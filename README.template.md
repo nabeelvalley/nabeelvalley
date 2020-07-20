@@ -9,11 +9,3 @@ Hi there 👋 My name is Nabeel Valley, I am from Pretoria, South Africa
 ## Recent Stars
 
 %%STARRED_REPOS%%
-
-## Recent Tweets
-
-___
-
-%%TWITTER_CARDS%%
-
-___
