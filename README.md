@@ -6,8 +6,15 @@ Hi there 👋 My name is Nabeel Valley, I am from Pretoria, South Africa
 
 ## Contributed
 
-%%CONTRIB_REPOS%%
+- [Hangfire.Documentation](https://github.com/HangfireIO/Hangfire.Documentation)
+- [corefx](https://github.com/dotnet/corefx)
+- [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
+- [veso-web](https://github.com/vesoapp/veso-web)
 
 ## Recent Stars
 
-%%STARRED_REPOS%%
+- [ATM](https://github.com/HDI-Project/ATM)
+- [rxdb](https://github.com/pubkey/rxdb)
+- [simonw](https://github.com/simonw/simonw)
+- [datasette](https://github.com/simonw/datasette)
+- [awesome-actions](https://github.com/sdras/awesome-actions)
