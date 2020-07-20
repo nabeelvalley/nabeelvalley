@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js 14.x
+    - name: Install Dependencies
       uses: actions/setup-node@v1
       with:
         node-version: 14.x
@@ -27,8 +27,6 @@ jobs:
         TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
         TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
       run: node index.js
-    - run: ls
-    - run: cat README.md
     - name: Update resources
       uses: test-room-7/action-update-file@v1
       with:
