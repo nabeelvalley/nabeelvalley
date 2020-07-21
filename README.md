@@ -6,17 +6,25 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
+## Blog (Last Updated: Tue Jul 21 2020)
+
+- [[Sun May 17 2020] Code for Noobs](https://nabeelvalley.netlify.app/blog/2020/17-05/code-for-noobs/)
+- [[Tue Apr 07 2020] Colour in Black and White Photography](https://nabeelvalley.netlify.app/blog/2020/07-04/filtering-in-bw/)
+- [[Wed Oct 30 2019] Intro to F# Web APIs](https://nabeelvalley.netlify.app/blog/2019/30-10/fsharp-webapi/)
+- [[Tue Oct 01 2019] Looky, a wild HTML!](https://nabeelvalley.netlify.app/blog/2019/12-10/looky-a-wild-html/)
+
 ## Contributions
 
 - [Hangfire.Documentation](https://github.com/HangfireIO/Hangfire.Documentation)
 - [corefx](https://github.com/dotnet/corefx)
+- [gatsby](https://github.com/gatsbyjs/gatsby)
 - [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
 - [veso-web](https://github.com/vesoapp/veso-web)
 
 ## Recent Stars
 
-- [ATM](https://github.com/HDI-Project/ATM)
-- [rxdb](https://github.com/pubkey/rxdb)
-- [simonw](https://github.com/simonw/simonw)
 - [datasette](https://github.com/simonw/datasette)
 - [awesome-actions](https://github.com/sdras/awesome-actions)
+- [gatsby-plugin-json-output](https://github.com/dominicfallows/gatsby-plugin-json-output)
+- [mint](https://github.com/mint-lang/mint)
+- [realworld](https://github.com/gothinkster/realworld)
