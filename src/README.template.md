@@ -10,6 +10,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 %%RECENT_POSTS%%
 
+> [See more](http://nabeelvalley.netlify.com/blog)
+
 ## Contributions
 
 %%CONTRIB_REPOS%%
