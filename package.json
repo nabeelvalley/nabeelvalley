@@ -1,8 +1,9 @@
 {
   "name": "nabeelvalley",
-  "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "scripts": {
+    "build": "node src/index.js"
+  },
   "dependencies": {
     "@octokit/auth": "^2.0.0",
     "@octokit/auth-app": "^2.4.10",

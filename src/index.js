@@ -21,8 +21,6 @@ const main = async () => {
     .replace('%%STARRED_REPOS%%', starsContent)
 
   fs.writeFileSync(outPath, outputContent)
-
-  console.log("Done")
 }
 
 main()
