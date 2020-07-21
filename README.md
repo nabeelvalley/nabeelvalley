@@ -10,8 +10,9 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 - [[Sun May 17 2020] Code for Noobs](https://nabeelvalley.netlify.app/blog/2020/17-05/code-for-noobs/)
 - [[Tue Apr 07 2020] Colour in Black and White Photography](https://nabeelvalley.netlify.app/blog/2020/07-04/filtering-in-bw/)
-- [[Wed Oct 30 2019] Intro to F# Web APIs](https://nabeelvalley.netlify.app/blog/2019/30-10/fsharp-webapi/)
-- [[Tue Oct 01 2019] Looky, a wild HTML!](https://nabeelvalley.netlify.app/blog/2019/12-10/looky-a-wild-html/)
+- [[Sun Mar 15 2020] The Gatsby Migration, pt.3 - Smart Pages](https://nabeelvalley.netlify.app/blog/2020/15-03/gatsby-migration-3/)
+- [[Sat Feb 01 2020] The Gatsby Migration, pt.2 - Dumb Pages](https://nabeelvalley.netlify.app/blog/2020/01-02/gatsby-migration-2/)
+- [[Tue Jan 21 2020] The Gatsby Migration, pt.1 - Setting the Scene](https://nabeelvalley.netlify.app/blog/2020/21-01/gatsby-migration-1/)
 
 ## Contributions
 
