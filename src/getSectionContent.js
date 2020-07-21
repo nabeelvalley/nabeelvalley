@@ -11,7 +11,7 @@ const toListItem = ({ name, url }) => {
  * @param {{name:string, url:string}[]} data
  */
 const getSectionContent = (data) => {
-  return data.map(toListItem).join('\n')
+  return data.slice(0, 5).map(toListItem).join('\n')
 }
 
 module.exports = getSectionContent

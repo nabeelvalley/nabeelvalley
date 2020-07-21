@@ -19,12 +19,12 @@ module.exports = async (rssUrl) => {
   const lastBuildDate = new Date(channel.lastBuildDate[0]).toDateString()
 
   const posts = channel.item
-    .map((i) => ({
+  .map((i) => ({
       title: i.title[0],
       link: i.link[0],
       pubDate: new Date(i.pubDate[0]).toDateString(),
     }))
-    .reverse()
+    .sort((a,b) => new Date(b.pubDate) - new Date(a.pubDate))
 
   return {
     lastBuildDate,
