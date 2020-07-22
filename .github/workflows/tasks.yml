@@ -1,4 +1,4 @@
-name: Build Profile README
+name: Run Tasks
 
 on:
   schedule:
