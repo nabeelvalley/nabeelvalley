@@ -21,7 +21,7 @@ jobs:
     - name: Build README
       env:
         REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
-      run: yarn build
+      run: yarn start
     - name: Update resources
       uses: test-room-7/action-update-file@v1
       with:

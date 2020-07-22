@@ -2,7 +2,7 @@
   "name": "nabeelvalley",
   "main": "index.js",
   "scripts": {
-    "build": "node src/index.js"
+    "start": "node --unhandled-rejections=strict src/index.js"
   },
   "dependencies": {
     "@octokit/auth": "^2.0.0",
@@ -10,6 +10,7 @@
     "@octokit/graphql": "^4.5.2",
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.0",
+    "sharp": "^0.25.4",
     "twitter": "^1.7.1",
     "xml2js": "^0.4.23"
   }

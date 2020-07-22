@@ -14,6 +14,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 - [[Sat Feb 01 2020] The Gatsby Migration, pt.2 - Dumb Pages](https://nabeelvalley.netlify.app/blog/2020/01-02/gatsby-migration-2/)
 - [[Tue Jan 21 2020] The Gatsby Migration, pt.1 - Setting the Scene](https://nabeelvalley.netlify.app/blog/2020/21-01/gatsby-migration-1/)
 
+> [See more](http://nabeelvalley.netlify.com/blog)
+
 ## Contributions
 
 - [Hangfire.Documentation](https://github.com/HangfireIO/Hangfire.Documentation)
@@ -24,8 +26,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [public-apis](https://github.com/public-apis/public-apis)
 - [api-docs](https://github.com/harvardartmuseums/api-docs)
 - [Rectangle](https://github.com/rxhanson/Rectangle)
 - [whirl](https://github.com/jh3y/whirl)
 - [spectrum](https://github.com/withspectrum/spectrum)
+- [openaccess](https://github.com/metmuseum/openaccess)

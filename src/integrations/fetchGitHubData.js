@@ -3,10 +3,10 @@ const { graphql } = require('@octokit/graphql')
 /**
  * Fetch required data from GitHub GraphQL API
  * @param {string} authToken
- * @returns {{
+ * @returns {Promise<{
  *  repositoriesContributedTo: {name:string, url:string},
  *  starredRepositories: {name:string, url:string}
- * }}
+ * }>}
  */
 module.exports = async (authToken) => {
   const graphqlWithAuth = graphql.defaults({

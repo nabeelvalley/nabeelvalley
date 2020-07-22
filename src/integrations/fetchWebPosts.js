@@ -4,10 +4,10 @@ const fetch = require('node-fetch')
 /**
  * Fetch RSS Feed Posts from the provided URL
  * @param {string} rssUrl
- * @return{{
+ * @returns {Promise<{
  *  lastBuildDate: string;
  *  posts: {title: string, link:string, pubDate:string};
- *}}
+ *}>}
  */
 module.exports = async (rssUrl) => {
   const response = await fetch(rssUrl)
