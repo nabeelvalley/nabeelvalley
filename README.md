@@ -24,8 +24,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [datasette](https://github.com/simonw/datasette)
-- [awesome-actions](https://github.com/sdras/awesome-actions)
-- [gatsby-plugin-json-output](https://github.com/dominicfallows/gatsby-plugin-json-output)
-- [mint](https://github.com/mint-lang/mint)
 - [realworld](https://github.com/gothinkster/realworld)
+- [deckofcards](https://github.com/crobertsbmw/deckofcards)
+- [public-apis](https://github.com/public-apis/public-apis)
+- [api-docs](https://github.com/harvardartmuseums/api-docs)
+- [Rectangle](https://github.com/rxhanson/Rectangle)
