@@ -8,14 +8,9 @@ const Twitter = require('twitter')
 module.exports = async (twitterConfig, image) => {
   const client = new Twitter(twitterConfig)
 
-  try {
-    const twitterResponse = await client.post('account/update_profile_banner', {
-      banner: image,
-    })
+  const twitterResponse = await client.post('account/update_profile_banner', {
+    banner: image,
+  })
 
-    return twitterResponse
-  } catch (err) {
-    console.error(err)
-    throw err
-  }
+  return twitterResponse
 }
