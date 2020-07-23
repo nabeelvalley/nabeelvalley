@@ -26,8 +26,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [whirl](https://github.com/jh3y/whirl)
 - [spectrum](https://github.com/withspectrum/spectrum)
 - [openaccess](https://github.com/metmuseum/openaccess)
 - [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
 - [fontkit](https://github.com/foliojs/fontkit)
+- [manim](https://github.com/3b1b/manim)
