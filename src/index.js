@@ -10,7 +10,7 @@ const templatePath = path.join(__dirname, 'templates/README.template.md')
 const outPath = path.join(__dirname, '..', 'README.md')
 
 const main = async () => {
-    updateReadme(templatePath, outPath, gitHubToken, rssUrl)
+    await updateReadme(templatePath, outPath, gitHubToken, rssUrl)
 }
 
 main()
