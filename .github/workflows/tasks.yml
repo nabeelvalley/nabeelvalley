@@ -1,4 +1,4 @@
-name: Run Tasks
+name: Update README
 
 on:
   schedule:
