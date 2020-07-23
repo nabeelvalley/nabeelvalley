@@ -5,6 +5,11 @@ on:
     - cron: "0 */6 * * *"
   push:
     branches: [ master ]
+  workflow_dispatch: 
+    inputs:
+      logLevel:
+        description: 'Explanation'     
+        required: true
     
 jobs:
   build:
@@ -21,6 +26,7 @@ jobs:
     - name: Build README
       env:
         REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
+        BLOG_RSS_URL: ${{ secrets.BLOG_RSS_URL }}
       run: yarn start
     - name: Update resources
       uses: test-room-7/action-update-file@v1
