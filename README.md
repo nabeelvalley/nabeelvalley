@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [openaccess](https://github.com/metmuseum/openaccess)
-- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
-- [fontkit](https://github.com/foliojs/fontkit)
-- [manim](https://github.com/3b1b/manim)
-- [perseus](https://github.com/3b1b/perseus)
+- [git-badges](https://github.com/puf17640/git-badges)
+- [rethinkdb](https://github.com/rethinkdb/rethinkdb)
+- [edx-platform](https://github.com/edx/edx-platform)
+- [moodle](https://github.com/moodle/moodle)
+- [canvas-lms](https://github.com/instructure/canvas-lms)
