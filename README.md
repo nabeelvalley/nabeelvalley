@@ -8,13 +8,13 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
-## Blog (Last Updated: Tue Jul 21 2020)
+## Blog (Last Updated: Sat Jul 25 2020)
 
+- [[Sat Jul 25 2020] Code in a Container](https://nabeelvalley.netlify.app/blog/2020/25-07/developing-in-a-container-vscode/)
 - [[Sun May 17 2020] Code for Noobs](https://nabeelvalley.netlify.app/blog/2020/17-05/code-for-noobs/)
 - [[Tue Apr 07 2020] Colour in Black and White Photography](https://nabeelvalley.netlify.app/blog/2020/07-04/filtering-in-bw/)
 - [[Sun Mar 15 2020] The Gatsby Migration, pt.3 - Smart Pages](https://nabeelvalley.netlify.app/blog/2020/15-03/gatsby-migration-3/)
 - [[Sat Feb 01 2020] The Gatsby Migration, pt.2 - Dumb Pages](https://nabeelvalley.netlify.app/blog/2020/01-02/gatsby-migration-2/)
-- [[Tue Jan 21 2020] The Gatsby Migration, pt.1 - Setting the Scene](https://nabeelvalley.netlify.app/blog/2020/21-01/gatsby-migration-1/)
 
 > [See more](http://nabeelvalley.netlify.com/blog)
 
