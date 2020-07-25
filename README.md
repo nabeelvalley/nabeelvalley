@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [git-badges](https://github.com/puf17640/git-badges)
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb)
 - [edx-platform](https://github.com/edx/edx-platform)
 - [moodle](https://github.com/moodle/moodle)
 - [canvas-lms](https://github.com/instructure/canvas-lms)
+- [wildcard](https://github.com/hugs/wildcard)
