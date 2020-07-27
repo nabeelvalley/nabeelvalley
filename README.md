@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [adonisjs.com](https://github.com/adonisjs/adonisjs.com)
-- [InstaScraper](https://github.com/cmcodes1/InstaScraper)
-- [use-comments](https://github.com/beerose/use-comments)
-- [dev-proxy](https://github.com/azuqua/dev-proxy)
-- [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy)
+- [fastapi](https://github.com/tiangolo/fastapi)
+- [constellation](https://github.com/constellation-rs/constellation)
+- [ergo](https://github.com/accordproject/ergo)
+- [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
+- [http-server](https://github.com/adonisjs/http-server)
