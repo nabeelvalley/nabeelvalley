@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [canvas-lms](https://github.com/instructure/canvas-lms)
 - [wildcard](https://github.com/hugs/wildcard)
 - [grammarly](https://github.com/znck/grammarly)
 - [adonisjs.com](https://github.com/adonisjs/adonisjs.com)
 - [InstaScraper](https://github.com/cmcodes1/InstaScraper)
+- [use-comments](https://github.com/beerose/use-comments)
