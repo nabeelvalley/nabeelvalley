@@ -24,12 +24,12 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 - [corefx](https://github.com/dotnet/corefx)
 - [gatsby](https://github.com/gatsbyjs/gatsby)
 - [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
-- [veso-web](https://github.com/vesoapp/veso-web)
+- [adonisjs.com](https://github.com/adonisjs/adonisjs.com)
 
 ## Recent Stars
 
-- [fastapi](https://github.com/tiangolo/fastapi)
-- [constellation](https://github.com/constellation-rs/constellation)
-- [ergo](https://github.com/accordproject/ergo)
 - [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
 - [http-server](https://github.com/adonisjs/http-server)
+- [libvips](https://github.com/libvips/libvips)
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [zod](https://github.com/vriad/zod)
