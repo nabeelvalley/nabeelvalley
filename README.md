@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
 - [http-server](https://github.com/adonisjs/http-server)
 - [libvips](https://github.com/libvips/libvips)
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [zod](https://github.com/vriad/zod)
+- [felicette](https://github.com/plant99/felicette)
