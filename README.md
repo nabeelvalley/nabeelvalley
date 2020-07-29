@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [zod](https://github.com/vriad/zod)
-- [felicette](https://github.com/plant99/felicette)
-- [global-agent](https://github.com/gajus/global-agent)
-- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+- [twilio-text-to-vote](https://github.com/learnwithjason/twilio-text-to-vote)
+- [apollo-federation](https://github.com/learnwithjason/apollo-federation)
+- [trafficserver](https://github.com/apache/trafficserver)
+- [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
+- [Hangfire.Dashboard.Management](https://github.com/mccj/Hangfire.Dashboard.Management)
