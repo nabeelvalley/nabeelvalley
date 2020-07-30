@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [twilio-text-to-vote](https://github.com/learnwithjason/twilio-text-to-vote)
-- [apollo-federation](https://github.com/learnwithjason/apollo-federation)
-- [trafficserver](https://github.com/apache/trafficserver)
-- [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
-- [Hangfire.Dashboard.Management](https://github.com/mccj/Hangfire.Dashboard.Management)
+- [filestash](https://github.com/mickael-kerjean/filestash)
+- [hackpad](https://github.com/dropbox/hackpad)
+- [etherpad-lite](https://github.com/ether/etherpad-lite)
+- [upm](https://github.com/replit/upm)
+- [poetry](https://github.com/python-poetry/poetry)
