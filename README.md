@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [filestash](https://github.com/mickael-kerjean/filestash)
-- [hackpad](https://github.com/dropbox/hackpad)
 - [etherpad-lite](https://github.com/ether/etherpad-lite)
 - [upm](https://github.com/replit/upm)
 - [poetry](https://github.com/python-poetry/poetry)
+- [metaflow](https://github.com/Netflix/metaflow)
+- [h2o-3](https://github.com/h2oai/h2o-3)
