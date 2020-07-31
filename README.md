@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [etherpad-lite](https://github.com/ether/etherpad-lite)
 - [upm](https://github.com/replit/upm)
 - [poetry](https://github.com/python-poetry/poetry)
 - [metaflow](https://github.com/Netflix/metaflow)
 - [h2o-3](https://github.com/h2oai/h2o-3)
+- [spaCy](https://github.com/explosion/spaCy)
