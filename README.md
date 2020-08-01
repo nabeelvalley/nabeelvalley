@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [poetry](https://github.com/python-poetry/poetry)
-- [metaflow](https://github.com/Netflix/metaflow)
 - [h2o-3](https://github.com/h2oai/h2o-3)
 - [spaCy](https://github.com/explosion/spaCy)
 - [polyfill-service](https://github.com/Financial-Times/polyfill-service)
+- [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
+- [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
