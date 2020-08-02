@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [h2o-3](https://github.com/h2oai/h2o-3)
-- [spaCy](https://github.com/explosion/spaCy)
-- [polyfill-service](https://github.com/Financial-Times/polyfill-service)
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
 - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- [ptemplate](https://github.com/nethruster/ptemplate)
+- [strapi-examples](https://github.com/strapi/strapi-examples)
+- [tensorflow-typescript-starter](https://github.com/sami-badawi/tensorflow-typescript-starter)
