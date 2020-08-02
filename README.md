@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
-- [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
-- [ptemplate](https://github.com/nethruster/ptemplate)
 - [strapi-examples](https://github.com/strapi/strapi-examples)
 - [tensorflow-typescript-starter](https://github.com/sami-badawi/tensorflow-typescript-starter)
+- [gpu.js](https://github.com/gpujs/gpu.js)
+- [react-query](https://github.com/tannerlinsley/react-query)
+- [Foundatio.Redis](https://github.com/FoundatioFx/Foundatio.Redis)
