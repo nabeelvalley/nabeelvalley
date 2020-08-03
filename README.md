@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [strapi-examples](https://github.com/strapi/strapi-examples)
-- [tensorflow-typescript-starter](https://github.com/sami-badawi/tensorflow-typescript-starter)
-- [gpu.js](https://github.com/gpujs/gpu.js)
 - [react-query](https://github.com/tannerlinsley/react-query)
 - [Foundatio.Redis](https://github.com/FoundatioFx/Foundatio.Redis)
+- [gatsby-shopify-example](https://github.com/Moe007/gatsby-shopify-example)
+- [serving](https://github.com/knative/serving)
+- [fn](https://github.com/fnproject/fn)
