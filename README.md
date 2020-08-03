@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [react-query](https://github.com/tannerlinsley/react-query)
-- [Foundatio.Redis](https://github.com/FoundatioFx/Foundatio.Redis)
-- [gatsby-shopify-example](https://github.com/Moe007/gatsby-shopify-example)
-- [serving](https://github.com/knative/serving)
-- [fn](https://github.com/fnproject/fn)
+- [docusaurus](https://github.com/facebook/docusaurus)
+- [Python_Packages_for_Pipeline_Workflow](https://github.com/Minyus/Python_Packages_for_Pipeline_Workflow)
+- [AutoViz](https://github.com/AutoViML/AutoViz)
+- [ray](https://github.com/ray-project/ray)
+- [tpot](https://github.com/EpistasisLab/tpot)
