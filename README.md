@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [docusaurus](https://github.com/facebook/docusaurus)
-- [Python_Packages_for_Pipeline_Workflow](https://github.com/Minyus/Python_Packages_for_Pipeline_Workflow)
-- [AutoViz](https://github.com/AutoViML/AutoViz)
-- [ray](https://github.com/ray-project/ray)
-- [tpot](https://github.com/EpistasisLab/tpot)
+- [mind](https://github.com/stevenmiller888/mind)
+- [synaptic](https://github.com/cazala/synaptic)
+- [ml5-library](https://github.com/ml5js/ml5-library)
+- [MQTTnet](https://github.com/chkr1011/MQTTnet)
+- [featuretools](https://github.com/FeatureLabs/featuretools)
