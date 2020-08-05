@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [MQTTnet](https://github.com/chkr1011/MQTTnet)
-- [featuretools](https://github.com/FeatureLabs/featuretools)
-- [airflow](https://github.com/apache/airflow)
-- [Facebook-ASP.NET-Webhook](https://github.com/somaraj/Facebook-ASP.NET-Webhook)
-- [featuretools-docker](https://github.com/Featuretools/featuretools-docker)
+- [mbmlbook](https://github.com/dotnet/mbmlbook)
+- [convnetjs](https://github.com/karpathy/convnetjs)
+- [brain.js](https://github.com/BrainJS/brain.js)
+- [falcor](https://github.com/Netflix/falcor)
+- [Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot)
