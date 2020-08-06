@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [mbmlbook](https://github.com/dotnet/mbmlbook)
-- [convnetjs](https://github.com/karpathy/convnetjs)
-- [brain.js](https://github.com/BrainJS/brain.js)
-- [falcor](https://github.com/Netflix/falcor)
 - [Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot)
+- [community](https://github.com/scrimba/community)
+- [imba](https://github.com/imba/imba)
+- [vscode-plugin](https://github.com/kiteco/vscode-plugin)
+- [try](https://github.com/dotnet/try)
