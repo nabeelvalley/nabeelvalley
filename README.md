@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot)
 - [community](https://github.com/scrimba/community)
 - [imba](https://github.com/imba/imba)
 - [vscode-plugin](https://github.com/kiteco/vscode-plugin)
 - [try](https://github.com/dotnet/try)
+- [vest](https://github.com/ealush/vest)
