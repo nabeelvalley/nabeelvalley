@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [vest](https://github.com/ealush/vest)
-- [picroscopy](https://github.com/waveform80/picroscopy)
 - [documentation](https://github.com/raspberrypi/documentation)
 - [excalidraw](https://github.com/excalidraw/excalidraw)
 - [flask-video-streaming](https://github.com/miguelgrinberg/flask-video-streaming)
+- [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+- [TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
