@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [community](https://github.com/scrimba/community)
-- [imba](https://github.com/imba/imba)
-- [vscode-plugin](https://github.com/kiteco/vscode-plugin)
 - [try](https://github.com/dotnet/try)
 - [vest](https://github.com/ealush/vest)
+- [picroscopy](https://github.com/waveform80/picroscopy)
+- [documentation](https://github.com/raspberrypi/documentation)
+- [excalidraw](https://github.com/excalidraw/excalidraw)
