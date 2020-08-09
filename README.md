@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [documentation](https://github.com/raspberrypi/documentation)
-- [excalidraw](https://github.com/excalidraw/excalidraw)
 - [flask-video-streaming](https://github.com/miguelgrinberg/flask-video-streaming)
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
 - [TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
+- [pm2-web-ui](https://github.com/alexnzarov/pm2-web-ui)
+- [pm2-gui](https://github.com/Tjatse/pm2-gui)
