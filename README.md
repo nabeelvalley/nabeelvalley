@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [flask-video-streaming](https://github.com/miguelgrinberg/flask-video-streaming)
-- [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
-- [TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
 - [pm2-web-ui](https://github.com/alexnzarov/pm2-web-ui)
 - [pm2-gui](https://github.com/Tjatse/pm2-gui)
+- [pixi.js](https://github.com/pixijs/pixi.js)
+- [phaser](https://github.com/photonstorm/phaser)
+- [bitsy](https://github.com/le-doux/bitsy)
