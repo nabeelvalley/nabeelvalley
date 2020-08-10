@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [pm2-gui](https://github.com/Tjatse/pm2-gui)
 - [pixi.js](https://github.com/pixijs/pixi.js)
 - [phaser](https://github.com/photonstorm/phaser)
 - [bitsy](https://github.com/le-doux/bitsy)
 - [prettier_action](https://github.com/creyD/prettier_action)
+- [a11y-coffee](https://github.com/amberleyromo/a11y-coffee)
