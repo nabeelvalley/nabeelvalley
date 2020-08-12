@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [prettier_action](https://github.com/creyD/prettier_action)
 - [a11y-coffee](https://github.com/amberleyromo/a11y-coffee)
 - [npm-run-all](https://github.com/mysticatea/npm-run-all)
 - [act](https://github.com/nektos/act)
 - [runner](https://github.com/actions/runner)
+- [blog](https://github.com/hypriot/blog)
