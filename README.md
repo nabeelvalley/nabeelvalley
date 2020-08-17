@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [blog](https://github.com/hypriot/blog)
-- [Emoji-Log](https://github.com/ahmadawais/Emoji-Log)
-- [Cosmos](https://github.com/CosmosOS/Cosmos)
 - [micro](https://github.com/zyedidia/micro)
 - [jedi](https://github.com/davidhalter/jedi)
+- [freedom](https://github.com/sifive/freedom)
+- [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)
+- [riscv-isa-sim](https://github.com/riscv/riscv-isa-sim)
