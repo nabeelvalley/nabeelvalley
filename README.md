@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [riscv-isa-manual](https://github.com/riscv/riscv-isa-manual)
-- [riscv-isa-sim](https://github.com/riscv/riscv-isa-sim)
 - [node-pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup)
 - [pm2-windows-service](https://github.com/jon-hall/pm2-windows-service)
 - [forever-monitor](https://github.com/foreversd/forever-monitor)
+- [magenta](https://github.com/magenta/magenta)
+- [STT](https://github.com/mozilla/STT)
