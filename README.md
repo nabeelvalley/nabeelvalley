@@ -30,6 +30,6 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 - [forever-monitor](https://github.com/foreversd/forever-monitor)
 - [magenta](https://github.com/magenta/magenta)
-- [STT](https://github.com/mozilla/STT)
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
 - [strapi-to-typescript](https://github.com/erikvullings/strapi-to-typescript)
 - [the-good-place](https://github.com/jayehernandez/the-good-place)
