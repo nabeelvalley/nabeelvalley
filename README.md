@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [forever-monitor](https://github.com/foreversd/forever-monitor)
 - [magenta](https://github.com/magenta/magenta)
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
 - [strapi-to-typescript](https://github.com/erikvullings/strapi-to-typescript)
 - [the-good-place](https://github.com/jayehernandez/the-good-place)
+- [vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal)
