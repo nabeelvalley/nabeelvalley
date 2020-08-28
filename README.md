@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [magenta](https://github.com/magenta/magenta)
-- [DeepSpeech](https://github.com/mozilla/DeepSpeech)
-- [strapi-to-typescript](https://github.com/erikvullings/strapi-to-typescript)
-- [the-good-place](https://github.com/jayehernandez/the-good-place)
-- [vscode-monokaicharcoal](https://github.com/74th/vscode-monokaicharcoal)
+- [ionic-framework](https://github.com/ionic-team/ionic-framework)
+- [bumbag-ui](https://github.com/bumbag/bumbag-ui)
+- [module-zero-core-template](https://github.com/aspnetboilerplate/module-zero-core-template)
+- [onnxmltools](https://github.com/onnx/onnxmltools)
+- [arwes](https://github.com/arwes/arwes)
