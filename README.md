@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [ionic-framework](https://github.com/ionic-team/ionic-framework)
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui)
 - [module-zero-core-template](https://github.com/aspnetboilerplate/module-zero-core-template)
 - [onnxmltools](https://github.com/onnx/onnxmltools)
 - [arwes](https://github.com/arwes/arwes)
+- [godot](https://github.com/godotengine/godot)
