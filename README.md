@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [onnxmltools](https://github.com/onnx/onnxmltools)
 - [arwes](https://github.com/arwes/arwes)
 - [godot](https://github.com/godotengine/godot)
 - [piskel](https://github.com/piskelapp/piskel)
 - [tiled](https://github.com/bjorn/tiled)
+- [wysiwyg.css](https://github.com/jgthms/wysiwyg.css)
