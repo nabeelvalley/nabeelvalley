@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [arwes](https://github.com/arwes/arwes)
-- [godot](https://github.com/godotengine/godot)
-- [piskel](https://github.com/piskelapp/piskel)
-- [tiled](https://github.com/bjorn/tiled)
-- [wysiwyg.css](https://github.com/jgthms/wysiwyg.css)
+- [keras](https://github.com/keras-team/keras)
+- [autoscraper](https://github.com/alirezamika/autoscraper)
+- [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers)
+- [umami](https://github.com/mikecao/umami)
+- [joplin](https://github.com/laurent22/joplin)
