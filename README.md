@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [autoscraper](https://github.com/alirezamika/autoscraper)
 - [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers)
 - [umami](https://github.com/mikecao/umami)
 - [joplin](https://github.com/laurent22/joplin)
 - [evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite)
+- [swift](https://github.com/apple/swift)
