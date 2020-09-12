@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [100-nlp-papers](https://github.com/mhagiwara/100-nlp-papers)
-- [umami](https://github.com/mikecao/umami)
-- [joplin](https://github.com/laurent22/joplin)
 - [evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite)
 - [swift](https://github.com/apple/swift)
+- [AIrsenal](https://github.com/alan-turing-institute/AIrsenal)
+- [fpl-prediction](https://github.com/solpaul/fpl-prediction)
+- [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League)
