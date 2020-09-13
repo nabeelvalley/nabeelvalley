@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [evenbettermotherfuckingwebsite](https://github.com/setetres/evenbettermotherfuckingwebsite)
 - [swift](https://github.com/apple/swift)
 - [AIrsenal](https://github.com/alan-turing-institute/AIrsenal)
 - [fpl-prediction](https://github.com/solpaul/fpl-prediction)
 - [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League)
+- [itisasifyouweredoingwork](https://github.com/pippinbarr/itisasifyouweredoingwork)
