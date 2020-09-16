@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [AIrsenal](https://github.com/alan-turing-institute/AIrsenal)
 - [fpl-prediction](https://github.com/solpaul/fpl-prediction)
 - [Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League)
 - [itisasifyouweredoingwork](https://github.com/pippinbarr/itisasifyouweredoingwork)
 - [webamp](https://github.com/captbaritone/webamp)
+- [vimium](https://github.com/philc/vimium)
