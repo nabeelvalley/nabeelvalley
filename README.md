@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [qusly](https://github.com/qusly/qusly)
 - [clerk](https://github.com/electron/clerk)
 - [easy-vm](https://github.com/sentialx/easy-vm)
 - [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
 - [uiterminal](https://github.com/omerimzali/uiterminal)
+- [electron-quick-start-typescript](https://github.com/electron/electron-quick-start-typescript)
