@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [electron-quick-start-typescript](https://github.com/electron/electron-quick-start-typescript)
-- [turtlebrowser](https://github.com/turtlebrowser/turtlebrowser)
-- [waveboxapp](https://github.com/wavebox/waveboxapp)
-- [EVCache](https://github.com/Netflix/EVCache)
-- [Hystrix](https://github.com/Netflix/Hystrix)
+- [socket.io](https://github.com/socketio/socket.io)
+- [keystone](https://github.com/keystonejs/keystone)
+- [hotel](https://github.com/typicode/hotel)
+- [og-image](https://github.com/vercel/og-image)
+- [social-image-generator](https://github.com/philhawksworth/social-image-generator)
