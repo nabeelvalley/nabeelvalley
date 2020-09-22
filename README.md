@@ -8,7 +8,7 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
-## Blog (Last Updated: Sun Sep 06 2020)
+## Blog (Last Updated: Tue Sep 22 2020)
 
 - [[Sun Sep 06 2020] Web APIs with AdonisJS and PostgreSQL](https://nabeelvalley.netlify.app/blog/2020/06-09/first-look-at-adonisjs/)
 - [[Tue Aug 11 2020] Automate Anything with GitHub Actions](https://nabeelvalley.netlify.app/blog/2020/11-08/automate-anything-with-actions/)
@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-- [uiterminal](https://github.com/omerimzali/uiterminal)
 - [electron-quick-start-typescript](https://github.com/electron/electron-quick-start-typescript)
 - [turtlebrowser](https://github.com/turtlebrowser/turtlebrowser)
 - [waveboxapp](https://github.com/wavebox/waveboxapp)
+- [EVCache](https://github.com/Netflix/EVCache)
+- [Hystrix](https://github.com/Netflix/Hystrix)
