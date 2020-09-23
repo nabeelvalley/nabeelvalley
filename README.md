@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [socket.io](https://github.com/socketio/socket.io)
 - [keystone](https://github.com/keystonejs/keystone)
 - [hotel](https://github.com/typicode/hotel)
 - [og-image](https://github.com/vercel/og-image)
 - [social-image-generator](https://github.com/philhawksworth/social-image-generator)
+- [electron-tutorials](https://github.com/mehulmpt/electron-tutorials)
