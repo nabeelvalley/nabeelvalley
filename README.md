@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [hotel](https://github.com/typicode/hotel)
-- [og-image](https://github.com/vercel/og-image)
-- [social-image-generator](https://github.com/philhawksworth/social-image-generator)
 - [electron-tutorials](https://github.com/mehulmpt/electron-tutorials)
 - [uce-template](https://github.com/WebReflection/uce-template)
+- [twitter-api-client](https://github.com/Silind/twitter-api-client)
+- [Out-of-the-Box-CodeServer](https://github.com/nullpo-head/Out-of-the-Box-CodeServer)
+- [code-server](https://github.com/cdr/code-server)
