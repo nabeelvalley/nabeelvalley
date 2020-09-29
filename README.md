@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [uce-template](https://github.com/WebReflection/uce-template)
-- [twitter-api-client](https://github.com/Silind/twitter-api-client)
-- [Out-of-the-Box-CodeServer](https://github.com/nullpo-head/Out-of-the-Box-CodeServer)
-- [code-server](https://github.com/cdr/code-server)
 - [knime-sdk-setup](https://github.com/knime/knime-sdk-setup)
+- [tutorials](https://github.com/onnx/tutorials)
+- [incubator-mxnet](https://github.com/apache/incubator-mxnet)
+- [emscripten](https://github.com/emscripten-core/emscripten)
+- [Windows-Machine-Learning](https://github.com/microsoft/Windows-Machine-Learning)
