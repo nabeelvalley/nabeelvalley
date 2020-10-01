@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [Windows-Machine-Learning](https://github.com/microsoft/Windows-Machine-Learning)
 - [text-fragments-polyfill](https://github.com/GoogleChromeLabs/text-fragments-polyfill)
 - [corona](https://github.com/geohot/corona)
 - [openpilot](https://github.com/commaai/openpilot)
 - [Mirror](https://github.com/vis2k/Mirror)
+- [darktable](https://github.com/darktable-org/darktable)
