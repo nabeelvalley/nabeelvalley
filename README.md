@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [herm-workshop](https://github.com/christiannwamba/herm-workshop)
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui)
 - [vue-nodegui](https://github.com/nodegui/vue-nodegui)
 - [nodegui](https://github.com/nodegui/nodegui)
 - [react-nodegui](https://github.com/nodegui/react-nodegui)
+- [reactos](https://github.com/reactos/reactos)
