@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [openpilot](https://github.com/commaai/openpilot)
-- [Mirror](https://github.com/vis2k/Mirror)
-- [darktable](https://github.com/darktable-org/darktable)
-- [IIS.Compression](https://github.com/microsoft/IIS.Compression)
-- [snarkdown](https://github.com/developit/snarkdown)
+- [herm-workshop](https://github.com/christiannwamba/herm-workshop)
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+- [vue-nodegui](https://github.com/nodegui/vue-nodegui)
+- [nodegui](https://github.com/nodegui/nodegui)
+- [react-nodegui](https://github.com/nodegui/react-nodegui)
