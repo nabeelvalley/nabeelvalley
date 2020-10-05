@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui)
-- [vue-nodegui](https://github.com/nodegui/vue-nodegui)
-- [nodegui](https://github.com/nodegui/nodegui)
 - [react-nodegui](https://github.com/nodegui/react-nodegui)
 - [reactos](https://github.com/reactos/reactos)
+- [SkiaSharp](https://github.com/mono/SkiaSharp)
+- [skia](https://github.com/google/skia)
+- [Magick.NET](https://github.com/dlemstra/Magick.NET)
