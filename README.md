@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [SkiaSharp](https://github.com/mono/SkiaSharp)
-- [skia](https://github.com/google/skia)
 - [Magick.NET](https://github.com/dlemstra/Magick.NET)
 - [Bolero](https://github.com/fsbolero/Bolero)
 - [interweave](https://github.com/milesj/interweave)
+- [dotnet-app](https://github.com/ServiceStack/dotnet-app)
+- [Electron.NET](https://github.com/ElectronNET/Electron.NET)
