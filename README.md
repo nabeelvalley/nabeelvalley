@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [interweave](https://github.com/milesj/interweave)
-- [dotnet-app](https://github.com/ServiceStack/dotnet-app)
-- [Electron.NET](https://github.com/ElectronNET/Electron.NET)
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [messenger](https://github.com/userlike/messenger)
+- [WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython)
+- [passbolt_api](https://github.com/passbolt/passbolt_api)
+- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
