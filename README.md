@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [messenger](https://github.com/userlike/messenger)
 - [WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [passbolt_api](https://github.com/passbolt/passbolt_api)
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [salesforcedx-vscode](https://github.com/forcedotcom/salesforcedx-vscode)
