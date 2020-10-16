@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [passbolt_api](https://github.com/passbolt/passbolt_api)
-- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [salesforcedx-vscode](https://github.com/forcedotcom/salesforcedx-vscode)
 - [clio](https://github.com/clio-lang/clio)
 - [windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker)
+- [the-elmish-book](https://github.com/Zaid-Ajaj/the-elmish-book)
+- [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting)
