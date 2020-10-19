@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [abp](https://github.com/abpframework/abp)
-- [butterfly-server](https://github.com/firesharkstudios/butterfly-server)
-- [Chromely](https://github.com/chromelyapps/Chromely)
 - [aspnetcore](https://github.com/dotnet/aspnetcore)
 - [grpc](https://github.com/grpc/grpc)
+- [webdb](https://github.com/beakerbrowser/webdb)
+- [beaker](https://github.com/beakerbrowser/beaker)
+- [weekly-digest](https://github.com/abhijeetps/weekly-digest)
