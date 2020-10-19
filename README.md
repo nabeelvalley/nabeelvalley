@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [salesforcedx-vscode](https://github.com/forcedotcom/salesforcedx-vscode)
-- [clio](https://github.com/clio-lang/clio)
-- [windows-terminal-tweaker](https://github.com/nateshmbhat/windows-terminal-tweaker)
-- [the-elmish-book](https://github.com/Zaid-Ajaj/the-elmish-book)
-- [Fable.Remoting](https://github.com/Zaid-Ajaj/Fable.Remoting)
+- [abp](https://github.com/abpframework/abp)
+- [butterfly-server](https://github.com/firesharkstudios/butterfly-server)
+- [Chromely](https://github.com/chromelyapps/Chromely)
+- [aspnetcore](https://github.com/dotnet/aspnetcore)
+- [grpc](https://github.com/grpc/grpc)
