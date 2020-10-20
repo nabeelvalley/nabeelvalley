@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [webdb](https://github.com/beakerbrowser/webdb)
-- [beaker](https://github.com/beakerbrowser/beaker)
-- [weekly-digest](https://github.com/abhijeetps/weekly-digest)
 - [PowerBI-JavaScript](https://github.com/microsoft/PowerBI-JavaScript)
 - [pipx](https://github.com/pipxproject/pipx)
+- [shoelace](https://github.com/shoelace-style/shoelace)
+- [fast](https://github.com/microsoft/fast)
+- [hyperHTML](https://github.com/WebReflection/hyperHTML)
