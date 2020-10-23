@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [fast](https://github.com/microsoft/fast)
-- [hyperHTML](https://github.com/WebReflection/hyperHTML)
 - [PowerBI-visuals-sampleBarChart](https://github.com/microsoft/PowerBI-visuals-sampleBarChart)
 - [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
 - [Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool)
+- [tye](https://github.com/dotnet/tye)
+- [dapr](https://github.com/dapr/dapr)
