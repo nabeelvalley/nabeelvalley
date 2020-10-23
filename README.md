@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [pipx](https://github.com/pipxproject/pipx)
-- [shoelace](https://github.com/shoelace-style/shoelace)
 - [fast](https://github.com/microsoft/fast)
 - [hyperHTML](https://github.com/WebReflection/hyperHTML)
 - [PowerBI-visuals-sampleBarChart](https://github.com/microsoft/PowerBI-visuals-sampleBarChart)
+- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
+- [Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool)
