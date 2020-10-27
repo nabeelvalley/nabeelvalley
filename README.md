@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)
-- [Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool)
 - [tye](https://github.com/dotnet/tye)
 - [dapr](https://github.com/dapr/dapr)
 - [nodeftpd](https://github.com/nodeftpd/nodeftpd)
+- [graphiql](https://github.com/graphql/graphiql)
+- [FSharp.TypeProviders.SDK](https://github.com/fsprojects/FSharp.TypeProviders.SDK)
