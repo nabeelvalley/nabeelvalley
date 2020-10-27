@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [tye](https://github.com/dotnet/tye)
-- [dapr](https://github.com/dapr/dapr)
-- [nodeftpd](https://github.com/nodeftpd/nodeftpd)
 - [graphiql](https://github.com/graphql/graphiql)
 - [FSharp.TypeProviders.SDK](https://github.com/fsprojects/FSharp.TypeProviders.SDK)
+- [Fable.SimpleHttp](https://github.com/Zaid-Ajaj/Fable.SimpleHttp)
+- [Feliz](https://github.com/Zaid-Ajaj/Feliz)
+- [Femto](https://github.com/Zaid-Ajaj/Femto)
