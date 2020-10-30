@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [Femto](https://github.com/Zaid-Ajaj/Femto)
 - [ui](https://github.com/dotnet-websharper/ui)
 - [fantomas](https://github.com/fsprojects/fantomas)
 - [TypedCssClasses](https://github.com/zanaptak/TypedCssClasses)
 - [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+- [fslang-design](https://github.com/fsharp/fslang-design)
