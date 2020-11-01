@@ -20,11 +20,11 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Contributions
 
-- [Hangfire.Documentation](https://github.com/HangfireIO/Hangfire.Documentation)
 - [gatsby](https://github.com/gatsbyjs/gatsby)
 - [brain.js](https://github.com/BrainJS/brain.js)
 - [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
 - [adonisjs.com](https://github.com/adonisjs/adonisjs.com)
+- [the-elmish-book](https://github.com/Zaid-Ajaj/the-elmish-book)
 
 ## Recent Stars
 
