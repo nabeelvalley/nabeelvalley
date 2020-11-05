@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-- [fslang-design](https://github.com/fsharp/fslang-design)
 - [rpaframework](https://github.com/robocorp/rpaframework)
 - [taskt](https://github.com/saucepleez/taskt)
 - [gluecodes-framework](https://github.com/gluecodes/gluecodes-framework)
+- [motion](https://github.com/framer/motion)
+- [popmotion](https://github.com/Popmotion/popmotion)
