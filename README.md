@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [rpaframework](https://github.com/robocorp/rpaframework)
-- [taskt](https://github.com/saucepleez/taskt)
 - [gluecodes-framework](https://github.com/gluecodes/gluecodes-framework)
 - [motion](https://github.com/framer/motion)
 - [popmotion](https://github.com/Popmotion/popmotion)
+- [muuri](https://github.com/haltu/muuri)
+- [hotchocolate](https://github.com/ChilliCream/hotchocolate)
