@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [motion](https://github.com/framer/motion)
 - [popmotion](https://github.com/Popmotion/popmotion)
 - [muuri](https://github.com/haltu/muuri)
 - [hotchocolate](https://github.com/ChilliCream/hotchocolate)
 - [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions)
+- [mltype](https://github.com/jankrepl/mltype)
