@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [jest-runner-cypress-example](https://github.com/TheBrainFamily/jest-runner-cypress-example)
 - [snyk](https://github.com/snyk/snyk)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [framer-motion](https://github.com/iamshaunjp/framer-motion)
