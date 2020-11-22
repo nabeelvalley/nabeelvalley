@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
-- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-- [framer-motion](https://github.com/iamshaunjp/framer-motion)
-- [Concentric-CSS](https://github.com/brandon-rhodes/Concentric-CSS)
-- [gatsby-tutorial](https://github.com/daniel-norris/gatsby-tutorial)
+- [core](https://github.com/dotnet-websharper/core)
+- [guilyx](https://github.com/guilyx/guilyx)
+- [awesome-fable](https://github.com/kunjee17/awesome-fable)
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- [ruffle](https://github.com/ruffle-rs/ruffle)
