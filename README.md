@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [guilyx](https://github.com/guilyx/guilyx)
 - [awesome-fable](https://github.com/kunjee17/awesome-fable)
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 - [ruffle](https://github.com/ruffle-rs/ruffle)
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI)
+- [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin)
