@@ -8,7 +8,7 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
-## Blog (Last Updated: Tue Nov 24 2020)
+## Blog (Last Updated: Wed Nov 25 2020)
 
 - [[Sun Sep 06 2020] Web APIs with AdonisJS and PostgreSQL](https://nabeelvalley.netlify.app/blog/2020/06-09/first-look-at-adonisjs/)
 - [[Tue Aug 11 2020] Automate Anything with GitHub Actions](https://nabeelvalley.netlify.app/blog/2020/11-08/automate-anything-with-actions/)
@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [notary](https://github.com/theupdateframework/notary)
-- [postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
-- [discourse](https://github.com/discourse/discourse)
 - [tutor](https://github.com/overhangio/tutor)
 - [temporal](https://github.com/temporalio/temporal)
+- [outline](https://github.com/outline/outline)
+- [flarum](https://github.com/flarum/flarum)
+- [vanilla](https://github.com/vanilla/vanilla)
