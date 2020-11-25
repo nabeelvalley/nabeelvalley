@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin)
-- [FSharpWrap](https://github.com/davnavr/FSharpWrap)
-- [cookieconsent](https://github.com/osano/cookieconsent)
 - [notary](https://github.com/theupdateframework/notary)
 - [postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
+- [discourse](https://github.com/discourse/discourse)
+- [tutor](https://github.com/overhangio/tutor)
+- [temporal](https://github.com/temporalio/temporal)
