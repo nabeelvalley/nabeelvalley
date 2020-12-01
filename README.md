@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [tutor](https://github.com/overhangio/tutor)
 - [temporal](https://github.com/temporalio/temporal)
 - [outline](https://github.com/outline/outline)
 - [flarum](https://github.com/flarum/flarum)
 - [vanilla](https://github.com/vanilla/vanilla)
+- [autodux](https://github.com/ericelliott/autodux)
