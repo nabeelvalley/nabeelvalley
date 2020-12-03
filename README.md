@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [temporal](https://github.com/temporalio/temporal)
-- [outline](https://github.com/outline/outline)
 - [flarum](https://github.com/flarum/flarum)
 - [vanilla](https://github.com/vanilla/vanilla)
 - [autodux](https://github.com/ericelliott/autodux)
+- [blog](https://github.com/joshwcomeau/blog)
+- [datasets](https://github.com/unsplash/datasets)
