@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [datasets](https://github.com/unsplash/datasets)
 - [hostifi-mvp](https://github.com/reillychase/hostifi-mvp)
 - [iavl](https://github.com/cosmos/iavl)
 - [twin.macro](https://github.com/ben-rogerson/twin.macro)
 - [reactive](https://github.com/dotnet/reactive)
+- [swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)
