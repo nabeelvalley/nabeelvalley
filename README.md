@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [iavl](https://github.com/cosmos/iavl)
 - [twin.macro](https://github.com/ben-rogerson/twin.macro)
 - [reactive](https://github.com/dotnet/reactive)
 - [swarm-to-sqlite](https://github.com/dogsheep/swarm-to-sqlite)
 - [vsinder](https://github.com/benawad/vsinder)
+- [vscode-glean](https://github.com/wix/vscode-glean)
