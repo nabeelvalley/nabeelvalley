@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [vsinder](https://github.com/benawad/vsinder)
-- [vscode-glean](https://github.com/wix/vscode-glean)
 - [mjml](https://github.com/mjmlio/mjml)
 - [MagicMirror](https://github.com/MichMich/MagicMirror)
 - [kubernetes-101](https://github.com/geerlingguy/kubernetes-101)
+- [feathers](https://github.com/feathersjs/feathers)
+- [nedb](https://github.com/louischatriot/nedb)
