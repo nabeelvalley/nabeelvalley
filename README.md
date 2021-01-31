@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [estree-to-babel](https://github.com/coderaiser/estree-to-babel)
 - [Facil](https://github.com/cmeeren/Facil)
 - [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors)
 - [comics](https://github.com/pennomi/comics)
 - [bent](https://github.com/mikeal/bent)
+- [react-spectrum](https://github.com/adobe/react-spectrum)
