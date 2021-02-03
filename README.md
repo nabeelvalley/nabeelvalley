@@ -8,7 +8,7 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
-## Blog (Last Updated: Tue Jan 26 2021)
+## Blog (Last Updated: Wed Feb 03 2021)
 
 - [[Sun Sep 06 2020] Web APIs with AdonisJS and PostgreSQL](https://nabeelvalley.netlify.app/blog/2020/06-09/first-look-at-adonisjs/)
 - [[Tue Aug 11 2020] Automate Anything with GitHub Actions](https://nabeelvalley.netlify.app/blog/2020/11-08/automate-anything-with-actions/)
@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [Facil](https://github.com/cmeeren/Facil)
-- [DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors)
-- [comics](https://github.com/pennomi/comics)
-- [bent](https://github.com/mikeal/bent)
-- [react-spectrum](https://github.com/adobe/react-spectrum)
+- [supabase](https://github.com/supabase/supabase)
+- [vite](https://github.com/vitejs/vite)
+- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+- [Python](https://github.com/TheAlgorithms/Python)
+- [slate](https://github.com/ianstormtaylor/slate)
