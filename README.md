@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [supabase](https://github.com/supabase/supabase)
 - [vite](https://github.com/vitejs/vite)
 - [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [Python](https://github.com/TheAlgorithms/Python)
 - [slate](https://github.com/ianstormtaylor/slate)
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
