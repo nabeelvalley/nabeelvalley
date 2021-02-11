@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [Python](https://github.com/TheAlgorithms/Python)
 - [slate](https://github.com/ianstormtaylor/slate)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 - [remotion](https://github.com/JonnyBurger/remotion)
+- [github1s](https://github.com/conwnet/github1s)
