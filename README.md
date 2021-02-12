@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [Python](https://github.com/TheAlgorithms/Python)
 - [slate](https://github.com/ianstormtaylor/slate)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 - [remotion](https://github.com/JonnyBurger/remotion)
 - [github1s](https://github.com/conwnet/github1s)
+- [AR.js](https://github.com/AR-js-org/AR.js)
