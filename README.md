@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [remotion](https://github.com/JonnyBurger/remotion)
-- [github1s](https://github.com/conwnet/github1s)
-- [AR.js](https://github.com/AR-js-org/AR.js)
 - [stanford-cs329s.github.io](https://github.com/stanford-cs329s/stanford-cs329s.github.io)
 - [ivy](https://github.com/ivy-dl/ivy)
+- [k-9](https://github.com/k9mail/k-9)
+- [Android-Email-Client](https://github.com/Criptext/Android-Email-Client)
+- [proton-mail-android](https://github.com/ProtonMail/proton-mail-android)
