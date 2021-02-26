@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [k-9](https://github.com/k9mail/k-9)
 - [Android-Email-Client](https://github.com/Criptext/Android-Email-Client)
 - [proton-mail-android](https://github.com/ProtonMail/proton-mail-android)
 - [fprime](https://github.com/nasa/fprime)
 - [JSON-js](https://github.com/douglascrockford/JSON-js)
+- [atmo](https://github.com/suborbital/atmo)
