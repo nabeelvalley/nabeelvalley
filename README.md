@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [proton-mail-android](https://github.com/ProtonMail/proton-mail-android)
 - [fprime](https://github.com/nasa/fprime)
 - [JSON-js](https://github.com/douglascrockford/JSON-js)
 - [atmo](https://github.com/suborbital/atmo)
 - [create-react-native-app](https://github.com/expo/create-react-native-app)
+- [glyphhanger](https://github.com/filamentgroup/glyphhanger)
