@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [create-react-native-app](https://github.com/expo/create-react-native-app)
 - [glyphhanger](https://github.com/filamentgroup/glyphhanger)
 - [puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp)
 - [gitea](https://github.com/go-gitea/gitea)
 - [Cookbook](https://github.com/andkret/Cookbook)
+- [.Varshney](https://github.com/Bhupesh-V/.Varshney)
