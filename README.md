@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [glyphhanger](https://github.com/filamentgroup/glyphhanger)
 - [puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp)
 - [gitea](https://github.com/go-gitea/gitea)
 - [Cookbook](https://github.com/andkret/Cookbook)
 - [.Varshney](https://github.com/Bhupesh-V/.Varshney)
+- [balena-node-red](https://github.com/balenalabs/balena-node-red)
