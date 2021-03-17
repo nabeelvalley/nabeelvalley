@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [Cookbook](https://github.com/andkret/Cookbook)
 - [.Varshney](https://github.com/Bhupesh-V/.Varshney)
 - [balena-node-red](https://github.com/balenalabs/balena-node-red)
 - [wasm3](https://github.com/wasm3/wasm3)
 - [emojicode](https://github.com/emojicode/emojicode)
+- [jsii](https://github.com/aws/jsii)
