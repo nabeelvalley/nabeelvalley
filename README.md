@@ -10,11 +10,11 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Blog (Last Updated: Tue Mar 23 2021)
 
-- [[Thu Dec 17 2020] Custom Attributes in C# Web Controllers](https://nabeelvalley.netlify.app/blog/2020/17-12/csharp-webapi-custom-attributes/)
-- [[Sun Sep 06 2020] Web APIs with AdonisJS and PostgreSQL](https://nabeelvalley.netlify.app/blog/2020/06-09/first-look-at-adonisjs/)
-- [[Tue Aug 11 2020] Automate Anything with GitHub Actions](https://nabeelvalley.netlify.app/blog/2020/11-08/automate-anything-with-actions/)
-- [[Sat Jul 25 2020] Code in a Container](https://nabeelvalley.netlify.app/blog/2020/25-07/developing-in-a-container-vscode/)
-- [[Sun May 17 2020] Code for Noobs](https://nabeelvalley.netlify.app/blog/2020/17-05/code-for-noobs/)
+- [[Tue Mar 23 2021] stdout: Custom Styles in Markdown](https://nabeelvalley.netlify.app/stdout/2021/23-03/custom-styles-in-markdown/)
+- [[Fri Mar 19 2021] stdout: Render Element by Tag Name in React](https://nabeelvalley.netlify.app/stdout/2021/19-03/render-component-by-tag-name-react/)
+- [[Tue Mar 09 2021] stdout: Setup HomeAssistant RaspberryPi with WiFi configured](https://nabeelvalley.netlify.app/stdout/2021/09-03/configure-home-assistant-raspberrypi-wifi/)
+- [[Wed Feb 03 2021] stdout: Serialize a JsonValue Array using F# and FSharp.Data's JsonProvider](https://nabeelvalley.netlify.app/stdout/2021/01-03/serialize-jsonvalue-array-fsharp/)
+- [[Wed Feb 03 2021] stdout: Jenkins: A Git process may have crashed in the repository](https://nabeelvalley.netlify.app/stdout/2021/03-02/jenkins-git-process-crashed/)
 
 > [See more](http://nabeelvalley.netlify.com/blog)
 
