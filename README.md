@@ -8,7 +8,7 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
-## Blog (Last Updated: Tue Mar 23 2021)
+## Blog (Last Updated: Fri Mar 26 2021)
 
 - [[Tue Mar 23 2021] stdout: Custom Styles in Markdown](https://nabeelvalley.netlify.app/stdout/2021/23-03/custom-styles-in-markdown/)
 - [[Fri Mar 19 2021] stdout: Render Element by Tag Name in React](https://nabeelvalley.netlify.app/stdout/2021/19-03/render-component-by-tag-name-react/)
@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [.Varshney](https://github.com/Bhupesh-V/.Varshney)
-- [balena-node-red](https://github.com/balenalabs/balena-node-red)
 - [wasm3](https://github.com/wasm3/wasm3)
 - [emojicode](https://github.com/emojicode/emojicode)
 - [jsii](https://github.com/aws/jsii)
+- [vanilla-extract](https://github.com/seek-oss/vanilla-extract)
+- [iot](https://github.com/dotnet/iot)
