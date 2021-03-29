@@ -8,12 +8,12 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
-## Blog (Last Updated: Fri Mar 26 2021)
+## Blog (Last Updated: Mon Mar 29 2021)
 
+- [[Sun Mar 28 2021] stdout: Control a Raspberry Pi GPIO with Python](https://nabeelvalley.netlify.app/stdout/2021/27-03/flicker-led-with-raspberry-pi/)
 - [[Tue Mar 23 2021] stdout: Custom Styles in Markdown](https://nabeelvalley.netlify.app/stdout/2021/23-03/custom-styles-in-markdown/)
 - [[Fri Mar 19 2021] stdout: Render Element by Tag Name in React](https://nabeelvalley.netlify.app/stdout/2021/19-03/render-component-by-tag-name-react/)
 - [[Tue Mar 09 2021] stdout: Setup HomeAssistant RaspberryPi with WiFi configured](https://nabeelvalley.netlify.app/stdout/2021/09-03/configure-home-assistant-raspberrypi-wifi/)
-- [[Wed Feb 03 2021] stdout: Serialize a JsonValue Array using F# and FSharp.Data's JsonProvider](https://nabeelvalley.netlify.app/stdout/2021/01-03/serialize-jsonvalue-array-fsharp/)
 - [[Wed Feb 03 2021] stdout: Jenkins: A Git process may have crashed in the repository](https://nabeelvalley.netlify.app/stdout/2021/03-02/jenkins-git-process-crashed/)
 
 > [See more](http://nabeelvalley.netlify.com/blog)
