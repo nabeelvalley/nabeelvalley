@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [wasm3](https://github.com/wasm3/wasm3)
 - [emojicode](https://github.com/emojicode/emojicode)
 - [jsii](https://github.com/aws/jsii)
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract)
 - [iot](https://github.com/dotnet/iot)
+- [superfolder-covid-mrna-vaccines](https://github.com/DasLab/superfolder-covid-mrna-vaccines)
