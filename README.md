@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [vanilla-extract](https://github.com/seek-oss/vanilla-extract)
 - [iot](https://github.com/dotnet/iot)
 - [superfolder-covid-mrna-vaccines](https://github.com/DasLab/superfolder-covid-mrna-vaccines)
 - [framework](https://github.com/featherhttp/framework)
 - [memer](https://github.com/sctyner/memer)
+- [tamago](https://github.com/asterick/tamago)
