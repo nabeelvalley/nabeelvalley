@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [iot](https://github.com/dotnet/iot)
 - [superfolder-covid-mrna-vaccines](https://github.com/DasLab/superfolder-covid-mrna-vaccines)
 - [framework](https://github.com/featherhttp/framework)
 - [memer](https://github.com/sctyner/memer)
 - [tamago](https://github.com/asterick/tamago)
+- [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog)
