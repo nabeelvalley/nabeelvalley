@@ -8,7 +8,7 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
-## Blog (Last Updated: Sat Apr 10 2021)
+## Blog (Last Updated: Mon Apr 12 2021)
 
 - [[Sat Apr 10 2021] blog: XUnit with F#](https://nabeelvalley.netlify.app/blog/2021/10-04/xunit-with-fsharp/)
 - [[Sun Mar 28 2021] stdout: Control a Raspberry Pi GPIO with Python](https://nabeelvalley.netlify.app/stdout/2021/27-03/flicker-led-with-raspberry-pi/)
