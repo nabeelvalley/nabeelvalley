@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [tamago](https://github.com/asterick/tamago)
-- [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog)
-- [localtunnel](https://github.com/localtunnel/localtunnel)
-- [n8n](https://github.com/n8n-io/n8n)
 - [public_html](https://github.com/catern/public_html)
+- [expecto](https://github.com/haf/expecto)
+- [Chessie](https://github.com/fsprojects/Chessie)
+- [Railway-Oriented-Programming-Example](https://github.com/swlaschin/Railway-Oriented-Programming-Example)
+- [FeedReader](https://github.com/codehollow/FeedReader)
