@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [expecto](https://github.com/haf/expecto)
-- [Chessie](https://github.com/fsprojects/Chessie)
 - [Railway-Oriented-Programming-Example](https://github.com/swlaschin/Railway-Oriented-Programming-Example)
 - [FeedReader](https://github.com/codehollow/FeedReader)
 - [specifications-ITS-REST](https://github.com/openEHR/specifications-ITS-REST)
+- [ehrbase](https://github.com/ehrbase/ehrbase)
+- [hapi-fhir](https://github.com/hapifhir/hapi-fhir)
