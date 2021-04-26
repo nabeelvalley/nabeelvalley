@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [specifications-ITS-REST](https://github.com/openEHR/specifications-ITS-REST)
 - [ehrbase](https://github.com/ehrbase/ehrbase)
 - [hapi-fhir](https://github.com/hapifhir/hapi-fhir)
 - [serverless-stack](https://github.com/serverless-stack/serverless-stack)
 - [cdk8s](https://github.com/cdk8s-team/cdk8s)
+- [gsocket](https://github.com/hackerschoice/gsocket)
