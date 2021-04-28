@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [ehrbase](https://github.com/ehrbase/ehrbase)
-- [hapi-fhir](https://github.com/hapifhir/hapi-fhir)
-- [serverless-stack](https://github.com/serverless-stack/serverless-stack)
-- [cdk8s](https://github.com/cdk8s-team/cdk8s)
-- [gsocket](https://github.com/hackerschoice/gsocket)
+- [request](https://github.com/request/request)
+- [medblocks](https://github.com/sidharthramesh/medblocks)
+- [archetype-languageserver](https://github.com/nedap/archetype-languageserver)
+- [aqlparser](https://github.com/nedap/aqlparser)
+- [archie](https://github.com/openEHR/archie)
