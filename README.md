@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [aqlparser](https://github.com/nedap/aqlparser)
-- [archie](https://github.com/openEHR/archie)
 - [antlr4](https://github.com/antlr/antlr4)
 - [lexer](https://github.com/aaditmshah/lexer)
 - [article-lsp-go-to-definition](https://github.com/Strumenta/article-lsp-go-to-definition)
+- [antlr-mega-tutorial](https://github.com/gabriele-tomassetti/antlr-mega-tutorial)
+- [antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts)
