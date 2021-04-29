@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [request](https://github.com/request/request)
-- [medblocks](https://github.com/sidharthramesh/medblocks)
-- [archetype-languageserver](https://github.com/nedap/archetype-languageserver)
 - [aqlparser](https://github.com/nedap/aqlparser)
 - [archie](https://github.com/openEHR/archie)
+- [antlr4](https://github.com/antlr/antlr4)
+- [lexer](https://github.com/aaditmshah/lexer)
+- [article-lsp-go-to-definition](https://github.com/Strumenta/article-lsp-go-to-definition)
