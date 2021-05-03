@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [antlr4](https://github.com/antlr/antlr4)
-- [lexer](https://github.com/aaditmshah/lexer)
-- [article-lsp-go-to-definition](https://github.com/Strumenta/article-lsp-go-to-definition)
-- [antlr-mega-tutorial](https://github.com/gabriele-tomassetti/antlr-mega-tutorial)
-- [antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts)
+- [nameko](https://github.com/nameko/nameko)
+- [awesome-microservices](https://github.com/mfornos/awesome-microservices)
+- [awesome](https://github.com/sindresorhus/awesome)
+- [hospitalrun](https://github.com/HospitalRun/hospitalrun)
+- [timescaledb](https://github.com/timescale/timescaledb)
