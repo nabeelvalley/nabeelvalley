@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [awesome](https://github.com/sindresorhus/awesome)
-- [hospitalrun](https://github.com/HospitalRun/hospitalrun)
-- [timescaledb](https://github.com/timescale/timescaledb)
-- [nomnoml](https://github.com/skanaar/nomnoml)
 - [mermaid](https://github.com/mermaid-js/mermaid)
+- [puml-themes](https://github.com/bschwarz/puml-themes)
+- [drawio](https://github.com/jgraph/drawio)
+- [mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
+- [react-native-ble-plx](https://github.com/Polidea/react-native-ble-plx)
