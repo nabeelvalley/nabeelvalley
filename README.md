@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [nameko](https://github.com/nameko/nameko)
-- [awesome-microservices](https://github.com/mfornos/awesome-microservices)
 - [awesome](https://github.com/sindresorhus/awesome)
 - [hospitalrun](https://github.com/HospitalRun/hospitalrun)
 - [timescaledb](https://github.com/timescale/timescaledb)
+- [nomnoml](https://github.com/skanaar/nomnoml)
+- [mermaid](https://github.com/mermaid-js/mermaid)
