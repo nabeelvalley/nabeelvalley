@@ -24,7 +24,7 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 - [brain.js](https://github.com/BrainJS/brain.js)
 - [docs.microsoft.com-nuget](https://github.com/NuGet/docs.microsoft.com-nuget)
 - [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
-- [adonisjs.com](https://github.com/adonisjs/adonisjs.com)
+- [legacy.adonisjs.com](https://github.com/adonisjs/legacy.adonisjs.com)
 
 ## Recent Stars
 
