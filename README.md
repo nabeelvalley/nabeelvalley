@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [puml-themes](https://github.com/bschwarz/puml-themes)
 - [drawio](https://github.com/jgraph/drawio)
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 - [react-native-ble-plx](https://github.com/Polidea/react-native-ble-plx)
 - [mlkit](https://github.com/googlesamples/mlkit)
+- [NativeScript](https://github.com/NativeScript/NativeScript)
