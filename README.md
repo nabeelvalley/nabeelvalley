@@ -23,8 +23,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 - [gatsby](https://github.com/gatsbyjs/gatsby)
 - [brain.js](https://github.com/BrainJS/brain.js)
 - [docs.microsoft.com-nuget](https://github.com/NuGet/docs.microsoft.com-nuget)
-- [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)
 - [legacy.adonisjs.com](https://github.com/adonisjs/legacy.adonisjs.com)
+- [the-elmish-book](https://github.com/Zaid-Ajaj/the-elmish-book)
 
 ## Recent Stars
 
