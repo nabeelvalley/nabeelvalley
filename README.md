@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [react-native-ble-plx](https://github.com/Polidea/react-native-ble-plx)
 - [mlkit](https://github.com/googlesamples/mlkit)
 - [NativeScript](https://github.com/NativeScript/NativeScript)
 - [restyle](https://github.com/Shopify/restyle)
 - [LCRN10-cryptocurrency-app-starter](https://github.com/byprogrammers/LCRN10-cryptocurrency-app-starter)
+- [javascript](https://github.com/airbnb/javascript)
