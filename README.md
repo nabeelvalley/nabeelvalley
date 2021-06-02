@@ -28,8 +28,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 ## Recent Stars
 
-- [LCRN10-cryptocurrency-app-starter](https://github.com/byprogrammers/LCRN10-cryptocurrency-app-starter)
 - [javascript](https://github.com/airbnb/javascript)
 - [husky](https://github.com/typicode/husky)
 - [react-native-web](https://github.com/necolas/react-native-web)
 - [client-js](https://github.com/smart-on-fhir/client-js)
+- [dotfiles](https://github.com/skwp/dotfiles)
