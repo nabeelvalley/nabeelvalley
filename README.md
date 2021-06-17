@@ -8,13 +8,13 @@ Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, 
 
 You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.netlify.com/)
 
-## Blog (Last Updated: Thu Jun 10 2021)
+## Blog (Last Updated: Thu Jun 17 2021)
 
+- [[Thu Jun 17 2021] blog: Building Serverless Apps using the Serverless Stack Framework](https://nabeelvalley.netlify.app/blog/2021/17-06/sst-framework/)
 - [[Thu May 06 2021] stdout: Multi-module Python project using an __init__.py file](https://nabeelvalley.netlify.app/stdout/2021/06-05/multi-module-python-projects/)
 - [[Sat Apr 10 2021] blog: XUnit with F#](https://nabeelvalley.netlify.app/blog/2021/10-04/xunit-with-fsharp/)
 - [[Sun Mar 28 2021] stdout: Control a Raspberry Pi GPIO with Python](https://nabeelvalley.netlify.app/stdout/2021/27-03/flicker-led-with-raspberry-pi/)
 - [[Tue Mar 23 2021] stdout: Custom Styles in Markdown](https://nabeelvalley.netlify.app/stdout/2021/23-03/custom-styles-in-markdown/)
-- [[Fri Mar 19 2021] stdout: Render Element by Tag Name in React](https://nabeelvalley.netlify.app/stdout/2021/19-03/render-component-by-tag-name-react/)
 
 > [See more](http://nabeelvalley.netlify.com/blog)
 
