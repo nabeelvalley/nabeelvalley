@@ -15,7 +15,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://nabeelvalley.co.za/feed/rss.xml
-          date_format: mm dd yyyy
+          date_format: dd mmm yyyy
           template: "$newline- [$date- $title]($url)"
           commit_message: ":robot: github action update"
           
