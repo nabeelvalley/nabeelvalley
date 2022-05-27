@@ -16,5 +16,6 @@ jobs:
         with:
           feed_list: https://nabeelvalley.co.za/feed/rss.xml
           date_format: mm dd yyyy
-          template: "- [$date- $title]($url) - $description"
+          template: "$newline- [$date- $title]($url) - $description"
+          commit_message: ":robot: github action update"
           
