@@ -15,5 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://nabeelvalley.co.za/feed/rss.xml
-          template: "## [$date - $title]($url)$newline$newline$description$newline"
+          date_format: mm dd yyyy
+          template: "- [$date- $title]($url) - $description"
           
