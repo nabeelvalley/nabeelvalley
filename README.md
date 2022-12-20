@@ -6,8 +6,8 @@ You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https:/
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [20 Dec 2022- Virtual Machine vs Containers](https://nabeelvalley.co.za/blog/2022/20-12/vms-vs-containers-diagram/)
 - [15 Dec 2022- Smooth Bottom Navigator with Secondary Actions](https://nabeelvalley.co.za/blog/2022/15-12/smooth-bottom-nav-with-actions/)
 - [14 Dec 2022- Podcast and RSS Reader App Design](https://nabeelvalley.co.za/blog/2022/14-12/rss-podcast-app-design/)
 - [12 Dec 2022- Typescript Utilities](https://nabeelvalley.co.za/blog/2022/13-12/typescript-utilities/)
-- [16 Nov 2022- Un-editable sections inside of a content editable](https://nabeelvalley.co.za/blog/2022/16-11/uneditable-sections-inside-of-conteneditable/)
-- [13 Nov 2022- Expanding Bottom Navigation with CSS Transitions](https://nabeelvalley.co.za/blog/2022/13-11/svelte-expanding-nav/)<!-- BLOG-POST-LIST:END -->
+- [16 Nov 2022- Un-editable sections inside of a content editable](https://nabeelvalley.co.za/blog/2022/16-11/uneditable-sections-inside-of-conteneditable/)<!-- BLOG-POST-LIST:END -->
