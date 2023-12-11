@@ -1,8 +1,8 @@
 # About Me
 
-Hi there 👋 My name is Nabeel Valley, I'm a web 🌐 developer from Pretoria, South Africa 📍. I love playing around with technology 💻 and solving interesting problems 🔎
+I'm passionate about solving challenging problems in beautiful ways. I have a Bachelor's of Engineering in Mechanical Engineering and have worked professionally as a Software Engineer since 2018
 
-You can find me around the internet here, on GitHub 🐙, [Twitter 🐤](https://twitter.com/not_nabeel/), [Instagram 📷](https://www.instagram.com/nabeelvalley/), [LinkedIn 🕴](https://za.linkedin.com/in/nabeelvalley) as well as on [my Website 🎨](https://nabeelvalley.co.za/)
+You can find me around the internet, on [GitHub](https://github.com/nabeelvalley), [Twitter](https://twitter.com/not_nabeel/), [Instagram](https://www.instagram.com/nabeelvalley/), [LinkedIn](https://za.linkedin.com/in/nabeelvalley) as well as on [my website](https://nabeelvalley.co.za/)
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
