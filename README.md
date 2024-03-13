@@ -6,8 +6,8 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [13 Mar 2024- Check your domain](https://nabeelvalley.co.za/blog/2024/13-03/check-your-domain/)
 - [07 Mar 2024- Use localStorage for Tab Synchronization](https://nabeelvalley.co.za/blog/2024/07-03/localstorage-based-sync/)
 - [06 Mar 2024- Astro Slides](https://nabeelvalley.co.za/blog/2024/06-03/astro-slides/)
 - [09 Nov 2023- Interacting with Kafka with Kotlin Coroutines](https://nabeelvalley.co.za/blog/2023/11-11/interacting-with-kafka-using-kotlin/)
-- [20 Oct 2023- JPA Queries without the Magic](https://nabeelvalley.co.za/blog/2023/20-10/jpa-query-specifications/)
-- [26 Jun 2023- Using Type Guards and Unions to prevent bugs and increase maintainability](https://nabeelvalley.co.za/blog/2023/26-06/type-guards-and-unions-typescript/)<!-- BLOG-POST-LIST:END -->
+- [20 Oct 2023- JPA Queries without the Magic](https://nabeelvalley.co.za/blog/2023/20-10/jpa-query-specifications/)<!-- BLOG-POST-LIST:END -->
