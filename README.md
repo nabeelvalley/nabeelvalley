@@ -6,7 +6,7 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [27 Apr 2024- On Manual Lensess](https://nabeelvalley.co.za/blog/2024/27-04/on-manual-lenses/)
+- [27 Apr 2024- On Automatic Lensess](https://nabeelvalley.co.za/blog/2024/27-04/automatic-lenses/)
 - [12 Apr 2024- Passwords](https://nabeelvalley.co.za/blog/2024/12-04/passwords/)
 - [04 Apr 2024- Show Children when Parent is Hidden with CSS](https://nabeelvalley.co.za/blog/2024/04-04/css-show-children-when-parent-hidden/)
 - [21 Mar 2024- CSS @counter-style with Emojis](https://nabeelvalley.co.za/blog/2024/21-03/css-counter-style/)
