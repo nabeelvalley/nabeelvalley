@@ -6,8 +6,8 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [27 Mar 2025- Scan based regex composition](https://nabeelvalley.co.za/blog/2025/27-03/regex-composition/)
+- [26 Mar 2025- Getting Started with the Language Server Protocol](https://nabeelvalley.co.za/blog/2025/26-03/the-language-server-protocol/)
 - [12 Feb 2025- Typescript Workers in NodeJS](https://nabeelvalley.co.za/blog/2025/12-02/nodejs-worker-threads/)
 - [06 Jan 2025- Web Workers and Vite](https://nabeelvalley.co.za/blog/2025/06-01/web-workers/)
-- [16 Aug 2024- Parameters, but only sometimes](https://nabeelvalley.co.za/blog/2024/16-08/optional-parameters-and-overloads-in-typescript/)
-- [15 Aug 2024- More generic than it should be](https://nabeelvalley.co.za/blog/2024/15-08/handling-complex-typescript-generics/)
-- [20 Jul 2024- Life, Gleam, and Parser Combinators](https://nabeelvalley.co.za/blog/2024/20-07/parser-combinators-and-gleam/)<!-- BLOG-POST-LIST:END -->
+- [16 Aug 2024- Parameters, but only sometimes](https://nabeelvalley.co.za/blog/2024/16-08/optional-parameters-and-overloads-in-typescript/)<!-- BLOG-POST-LIST:END -->
