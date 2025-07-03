@@ -6,8 +6,8 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [03 Jul 2025- Patching packages with PNPM](https://nabeelvalley.co.za/blog/2025/03-07/pnpm-package-patch/)
 - [18 Jun 2025- Typescript debugging without an IDE](https://nabeelvalley.co.za/blog/2025/18-06/typescript-debugging-without-an-ide/)
 - [27 Mar 2025- Scan based regex composition](https://nabeelvalley.co.za/blog/2025/27-03/regex-composition/)
 - [26 Mar 2025- Getting Started with the Language Server Protocol](https://nabeelvalley.co.za/blog/2025/26-03/the-language-server-protocol/)
-- [12 Feb 2025- Typescript Workers in NodeJS](https://nabeelvalley.co.za/blog/2025/12-02/nodejs-worker-threads/)
-- [06 Jan 2025- Web Workers and Vite](https://nabeelvalley.co.za/blog/2025/06-01/web-workers/)<!-- BLOG-POST-LIST:END -->
+- [12 Feb 2025- Typescript Workers in NodeJS](https://nabeelvalley.co.za/blog/2025/12-02/nodejs-worker-threads/)<!-- BLOG-POST-LIST:END -->
