@@ -6,8 +6,8 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [29 Jul 2025- Web Authentication API](https://nabeelvalley.co.za/blog/2025/29-07/web-authentication-api/)
 - [10 Jul 2025- Exploring the CSS Paint API](https://nabeelvalley.co.za/blog/2025/10-07/css-houdini-paint-api/)
 - [07 Jul 2025- Accessibility Reference List](https://nabeelvalley.co.za/blog/2025/07-07/accessibility-tools/)
 - [03 Jul 2025- Patching packages with PNPM](https://nabeelvalley.co.za/blog/2025/03-07/pnpm-package-patch/)
-- [18 Jun 2025- Typescript debugging without an IDE](https://nabeelvalley.co.za/blog/2025/18-06/typescript-debugging-without-an-ide/)
-- [27 Mar 2025- Scan based regex composition](https://nabeelvalley.co.za/blog/2025/27-03/regex-composition/)<!-- BLOG-POST-LIST:END -->
+- [18 Jun 2025- Typescript debugging without an IDE](https://nabeelvalley.co.za/blog/2025/18-06/typescript-debugging-without-an-ide/)<!-- BLOG-POST-LIST:END -->
