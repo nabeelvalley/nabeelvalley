@@ -6,8 +6,8 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [27 Aug 2025- Problems are better left solved](https://nabeelvalley.co.za/blog/2025/27-08/problems-are-better-left-solved/)
 - [01 Aug 2025- Scripting Text Manipulation](https://nabeelvalley.co.za/blog/2025/01-08/scripting-text-manipulation/)
 - [29 Jul 2025- Web Authentication API](https://nabeelvalley.co.za/blog/2025/29-07/web-authentication-api/)
 - [10 Jul 2025- Exploring the CSS Paint API](https://nabeelvalley.co.za/blog/2025/10-07/css-houdini-paint-api/)
-- [07 Jul 2025- Accessibility Reference List](https://nabeelvalley.co.za/blog/2025/07-07/accessibility-tools/)
-- [03 Jul 2025- Patching packages with PNPM](https://nabeelvalley.co.za/blog/2025/03-07/pnpm-package-patch/)<!-- BLOG-POST-LIST:END -->
+- [07 Jul 2025- Accessibility Reference List](https://nabeelvalley.co.za/blog/2025/07-07/accessibility-tools/)<!-- BLOG-POST-LIST:END -->
