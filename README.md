@@ -6,8 +6,8 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Feb 2026- CSS Anchor Positioning](https://nabeelvalley.co.za/blog/2026/11-02/css-anchor-positioning/)
 - [17 Dec 2025- Generator Generation](https://nabeelvalley.co.za/blog/2025/17-12/generator-generation/)
 - [16 Dec 2025- Parsing Helix logs in Nushell](https://nabeelvalley.co.za/blog/2025/16-12/helix-log-parsing/)
 - [14 Sep 2025- Week 37, Server Management](https://nabeelvalley.co.za/blog/2025/14-09/week-37-server-management/)
-- [10 Sep 2025- Côte d&#39;Azur](https://nabeelvalley.co.za/blog/2025/10-09/cote-d-azure/)
-- [07 Sep 2025- Week 36, Creativity](https://nabeelvalley.co.za/blog/2025/07-09/week-36-creativity/)<!-- BLOG-POST-LIST:END -->
+- [10 Sep 2025- Côte d&#39;Azur](https://nabeelvalley.co.za/blog/2025/10-09/cote-d-azure/)<!-- BLOG-POST-LIST:END -->
