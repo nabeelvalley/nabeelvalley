@@ -6,8 +6,8 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [26 Mar 2026- Async TUIs using Bubble Tea](https://nabeelvalley.co.za/blog/2026/26-03/bubbletea-commands/)
+- [26 Mar 2026- Git Tricks with Tri and Difft](https://nabeelvalley.co.za/blog/2026/26-03/tri-x-git-tricks/)
 - [22 Mar 2026- Mildly interesting photos from Eid](https://nabeelvalley.co.za/blog/2026/22-03/mildly-interesting-eid/)
 - [12 Mar 2026- Join the Webring!](https://nabeelvalley.co.za/blog/2026/12-03/webring/)
-- [17 Feb 2026- Web Component for Making Patterns](https://nabeelvalley.co.za/blog/2026/17-02/pattern-web-component/)
-- [11 Feb 2026- CSS Anchor Positioning](https://nabeelvalley.co.za/blog/2026/11-02/css-anchor-positioning/)
-- [17 Dec 2025- Generator Generation](https://nabeelvalley.co.za/blog/2025/17-12/generator-generation/)<!-- BLOG-POST-LIST:END -->
+- [17 Feb 2026- Web Component for Making Patterns](https://nabeelvalley.co.za/blog/2026/17-02/pattern-web-component/)<!-- BLOG-POST-LIST:END -->
