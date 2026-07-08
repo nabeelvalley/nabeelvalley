@@ -6,8 +6,5 @@ You can find me around the internet, on [GitHub](https://github.com/nabeelvalley
 
 # Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [25 Jun 2026- Parz v1 finally published!](https://nabeelvalley.co.za/blog/2026/25-06/parz-v1/)
-- [14 Jun 2026- Blow-up Jubilee - Den Haag](https://nabeelvalley.co.za/blog/2026/14-06/blow-up-jubilee-den-haag/)
-- [13 Jun 2026- Cash4Tricks](https://nabeelvalley.co.za/blog/2026/13-06/cash-4-tricks/)
-- [11 Jun 2026- Quirky Times](https://nabeelvalley.co.za/blog/2026/11-06/quirky-times/)
-- [06 Jun 2026- Zig - Bus error at address and memory management](https://nabeelvalley.co.za/blog/2026/06-06/zig-memory-allocation/)<!-- BLOG-POST-LIST:END -->
+- [30 Oct 2019- Intro to F# Web APIs](https://nabeelvalley.co.za/blog/2019/30-10/fsharp-webapi)
+- [12 Oct 2019- Looky, a wild HTML!](https://nabeelvalley.co.za/blog/2019/12-10/looky-a-wild-html)<!-- BLOG-POST-LIST:END -->
